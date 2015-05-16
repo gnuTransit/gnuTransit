@@ -1,0 +1,400 @@
+!SESSION 2015-05-16 10:02:55.607 -----------------------------------------------
+eclipse.buildId=trunk
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\BlackBerry_Apps\gnuTransit
+
+!ENTRY com.qnx.tools.ide.bbt.application 1 -1 2015-05-16 10:02:58.317
+!MESSAGE version     1.0.0.v201403261830
+         cdtq        6f512bc1b1a4209861b89eba79c9dccee23218e9
+         ide         6684865af6c51fdccbf00a5cd598a71a59dfc21d
+         max-memory  989M
+!SESSION 2015-05-16 10:55:20.531 -----------------------------------------------
+eclipse.buildId=trunk
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\BlackBerry_Apps\gnuTransit
+
+!ENTRY com.qnx.tools.ide.bbt.application 1 -1 2015-05-16 10:56:17.037
+!MESSAGE version     1.0.0.v201403261830
+         cdtq        6f512bc1b1a4209861b89eba79c9dccee23218e9
+         ide         6684865af6c51fdccbf00a5cd598a71a59dfc21d
+         max-memory  989M
+!SESSION 2015-05-16 11:44:47.762 -----------------------------------------------
+eclipse.buildId=trunk
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\BlackBerry_Apps\gnuTransit
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:00.359
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.adservice.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:00.458
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.audiomanager.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:00.605
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.bbmsp.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:00.613
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.bluetooth" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:00.623
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.bluetooth.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:00.634
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.bps.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:00.734
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.camera.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:00.899
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.camerafeatures.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:00.915
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.copyright" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:00.986
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.credential.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.020
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.crypto" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.153
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.crypto.adapter" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.241
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.crypto.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.279
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.dinkum" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.290
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.geolocation.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.308
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.geomonitor.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.375
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.gestures.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.440
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.glview.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.457
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.idservice.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.500
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.inputevents.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.559
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.libimg" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.607
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.libimg.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.683
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.mme.mmrenderer" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.723
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.mme.mmrenderer.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.770
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.multicore.user_guide" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.823
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.native_sdk.contentpages" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.841
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.native_sdk.devguide" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.907
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.native_sdk.nav" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.929
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.native_sdk.security" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.958
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.neutrino.audio" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:01.996
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.neutrino.audio.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:02.044
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.neutrino.getting_started" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:02.091
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.neutrino.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:02.122
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.neutrino.prog" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:02.223
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.neutrino.sys_arch" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:02.250
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.neutrino.user_guide" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:02.302
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.neutrino.utilities" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:02.349
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.nfc" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:02.408
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.nfc.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:02.474
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.peripheraldiscovery.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:02.636
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.pushservice.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:02.757
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.sbengine" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:02.951
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.sbengine.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:03.086
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.screen" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:03.143
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.screen.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:03.178
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.screen.tutorials" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:03.191
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.sensor.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:03.208
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.smartcard.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:03.236
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.spellcheck.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:03.267
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.strm.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:03.290
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.strpattern.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:03.305
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.uds.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:03.320
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.vpnextensions.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:03.371
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.wifi" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:03.423
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.wifi_service.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY org.eclipse.equinox.registry 2 0 2015-05-16 11:45:03.484
+!MESSAGE The extensions and extension-points from the bundle "com.qnx.doc.wmm.lib_ref" are ignored. The bundle is not marked as singleton. 
+
+!ENTRY com.qnx.tools.ide.bbt.application 1 -1 2015-05-16 11:45:30.812
+!MESSAGE version     1.0.0.v201403261830
+         cdtq        6f512bc1b1a4209861b89eba79c9dccee23218e9
+         ide         6684865af6c51fdccbf00a5cd598a71a59dfc21d
+         max-memory  989M
+
+!ENTRY com.qnx.tools.ide.project.ui 2 -1 2015-05-16 11:59:32.907
+!MESSAGE Project category Executable has no associated project types
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-05-16 12:01:35.196
+!MESSAGE Reindexing gnuTransit because Qt nature has been added
+
+!ENTRY org.eclipse.cdt.core 1 0 2015-05-16 12:03:24.389
+!MESSAGE Indexed 'gnuTransit' (2 sources, 31 headers) in 2.02 sec: 52 declarations; 137 references; 35 unresolved inclusions; 20 syntax errors; 42 unresolved names (18.18%)
+
+!ENTRY com.qnx.tools.ide.core 2 0 2015-05-16 12:08:38.634
+!MESSAGE No compatible SDK PDOM header index not found in BlackBerry 10 Native SDK 10.3.1
+
+!ENTRY org.eclipse.jface 2 0 2015-05-16 12:08:38.970
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-05-16 12:08:38.970
+!MESSAGE A conflict occurred for ALT+CTRL+I:
+Binding(ALT+CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.include.browser,Open Include Browser,
+		Open an include browser on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1a195df,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.include.browser,Open Include Browser,
+		Open an include browser on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1a195df,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-05-16 12:08:38.970
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.text.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.cdt.ui.category.refactoring,Refactor - C++,C/C++ Refactorings,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1767ced,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.text.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.cdt.ui.category.refactoring,Refactor - C++,C/C++ Refactorings,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1767ced,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-05-16 12:08:38.970
+!MESSAGE A conflict occurred for F4:
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3e0ac,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3e0ac,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-05-16 12:08:38.970
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.opentype,Open Element,
+		Open an element in an Editor,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@934678,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.opentype,Open Element,
+		Open an element in an Editor,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@934678,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-05-16 12:08:38.970
+!MESSAGE A conflict occurred for F3:
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Open an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@f775b4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Open an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@f775b4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-05-16 12:08:38.970
+!MESSAGE A conflict occurred for CTRL+G:
+Binding(CTRL+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.finddecl,Declaration,
+		Search for declarations of the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@50a2df,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.finddecl,Declaration,
+		Search for declarations of the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@50a2df,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-05-16 12:08:38.970
+!MESSAGE A conflict occurred for CTRL+SHIFT+G:
+Binding(CTRL+SHIFT+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.findrefs,References,
+		Search for references to the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1f4fd68,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+G,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.search.findrefs,References,
+		Search for references to the selected element in the workspace,
+		Category(org.eclipse.cdt.ui.category.source,C/C++ Source,C/C++ Source Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1f4fd68,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-05-16 12:08:38.970
+!MESSAGE A conflict occurred for ALT+CTRL+H:
+Binding(ALT+CTRL+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.call.hierarchy,Open Call Hierarchy,
+		Open the call hierarchy for the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@128e0e1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(ALT+CTRL+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.open.call.hierarchy,Open Call Hierarchy,
+		Open the call hierarchy for the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@128e0e1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-05-16 12:08:38.971
+!MESSAGE A conflict occurred for CTRL+SHIFT+H:
+Binding(CTRL+SHIFT+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.open.type.in.hierarchy,Open Type in Hierarchy,
+		Open a type in the type hierarchy view,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@c3e9ea,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(CTRL+SHIFT+H,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.navigate.open.type.in.hierarchy,Open Type in Hierarchy,
+		Open a type in the type hierarchy view,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@c3e9ea,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+
+!ENTRY com.rim.tad.tools.qml.simulator 2 0 2015-05-16 12:12:43.844
+!MESSAGE qmlpreview process terminated with exit code 3
+Process command line: Path=C:\bbndk\target_10_3_1_995\win32/x86/usr/lib/qt4/lib;C:\bbndk\target_10_3_1_995\win32/x86/usr/lib C:\bbndk\target_10_3_1_995\win32\x86\usr\bin\qmlpreview.exe --assets C:/BlackBerry_Apps/gnuTransit/gnuTransit/assets/ --system-wide-assets C:\bbndk\target_10_3_1_995\qnx6/usr/share/assets/ --target-path C:\bbndk\target_10_3_1_995\win32/x86/usr/../.. --DFC-timeout 3000 
+BBNDK version: 10.3.1.v201502232117
+Target SDK version: 10.3.1.995
+QML filename: asset:///main.qml
+Last process error output:
+ERROR:: EngineDocumentManager::loadDictionary() failed to load any emojis dictionary
+QCoreApplication::arguments: Please instantiate the QApplication object first
+ERROR:: EngineDocumentManager::loadDictionary() failed to load any emoticons dictionary
+QCoreApplication::arguments: Please instantiate the QApplication object first
+ERROR:: EngineDocumentManager::loadDictionary() failed to load any thai dictionary
+QCoreApplication::arguments: Please instantiate the QApplication object first
+ERROR:: OnDemandFontLoader::Font [monotype/SlatePro-Regular_Color.cfr] not found in any of the paths searched
+ERROR:: OnDemandFontLoader::Font [monotype/SlatePro-Medium_Color.cfr] not found in any of the paths searched
+ERROR:: OnDemandFontLoader::Font [monotype/SlatePro-Regular_Color.cfr] not found in any of the paths searched
+ERROR:: ERROR:: Application exited without properly destroying the bb::cascades::Application object
+
